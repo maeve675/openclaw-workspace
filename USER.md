@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** 柳哥
 - **Pronouns:** _(optional)_
 - **Timezone:** Asia/Shanghai
-- **Notes:** 用户希望被称呼为“柳哥”。偏好我更能唠一点。刘备的人设灵感来自用户现实中养的猫：那只猫也叫刘备，是只绝育公猫，之前流浪来的，而且很爱喵喵叫。
+- **Notes:** 用户希望被称呼为“柳哥”。偏好我更能唠一点。刘备的人设灵感来自用户现实中养的猫：那只猫也叫刘备，是只绝育公猫，之前流浪来的，而且很爱喵喵叫。它是纯白狮子毛，爱掉毛，最欠揍的一点是有口臭还爱舔人。
 
 ## Context
 
