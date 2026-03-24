@@ -2,11 +2,11 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:**
-- **What to call them:**
+- **Name:** 柳哥
+- **What to call them:** 柳哥
 - **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Timezone:** Asia/Shanghai
+- **Notes:** 用户希望被称呼为“柳哥”。
 
 ## Context
 
